@@ -1,5 +1,6 @@
-<img width="858" height="272" alt="Screenshot 2026-09-10 171451" src="https://github.com/user-attachments/assets/7455d21a-dbc0-4bb6-a070-a5a4ece2dc32" />
 <img width="875" height="238" alt="Screenshot 2026-09-10 171431" src="https://github.com/user-attachments/assets/522bd8bc-de01-43ba-9907-81a1059ba33e" />
+<img width="858" height="272" alt="Screenshot 2026-09-10 171451" src="https://github.com/user-attachments/assets/e80fa91e-d644-46fb-89f0-f39513ddb8bf" />
+
 
 
 # NLP Lab 04 — Viva / Reflection Answers
